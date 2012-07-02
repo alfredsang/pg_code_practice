@@ -1,0 +1,6 @@
+[submodule "lib/cordova"]
+	path = lib/cordova
+	url = https://github.com/apache/incubator-cordova-ios.git
+[submodule "lib/ghunit"]
+	path = lib/ghunit
+	url = https://github.com/gabriel/gh-unit.git
